@@ -1,10 +1,12 @@
 # Certificates
 
-WIDHIYA INTERNSHIP CERTIFICATES
+Widhya Internship Certificates
 
-AWS DATA SCIENCE CERTIFICATES
+AWS Data Science Certificates
+
+Hackerrank Python Certificates
+
  
-HACKERRANK PYTHON CERTIFICATES 
 
 
 
